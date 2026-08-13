@@ -1,0 +1,12 @@
+[
+  { "name": "Quadrantides", "radiant": "Bouvier", "peakMonth": 1, "peakDay": 4, "activeFromDay": [12, 28], "activeToDay": [1, 12], "zhr": 120, "raDeg": 230.0, "decDeg": 49.0 },
+  { "name": "Lyrides", "radiant": "Lyre", "peakMonth": 4, "peakDay": 22, "activeFromDay": [4, 14], "activeToDay": [4, 30], "zhr": 18, "raDeg": 271.4, "decDeg": 33.6 },
+  { "name": "Êta Aquarides", "radiant": "Verseau", "peakMonth": 5, "peakDay": 5, "activeFromDay": [4, 19], "activeToDay": [5, 28], "zhr": 50, "raDeg": 338.0, "decDeg": -1.0 },
+  { "name": "Delta Aquarides", "radiant": "Verseau", "peakMonth": 7, "peakDay": 30, "activeFromDay": [7, 12], "activeToDay": [8, 23], "zhr": 25, "raDeg": 339.0, "decDeg": -16.0 },
+  { "name": "Perséides", "radiant": "Persée", "peakMonth": 8, "peakDay": 12, "activeFromDay": [7, 17], "activeToDay": [8, 24], "zhr": 100, "raDeg": 48.2, "decDeg": 58.1 },
+  { "name": "Orionides", "radiant": "Orion", "peakMonth": 10, "peakDay": 21, "activeFromDay": [10, 2], "activeToDay": [11, 7], "zhr": 20, "raDeg": 95.0, "decDeg": 16.0 },
+  { "name": "Taurides", "radiant": "Taureau", "peakMonth": 11, "peakDay": 5, "activeFromDay": [9, 10], "activeToDay": [11, 20], "zhr": 5, "raDeg": 58.0, "decDeg": 21.0 },
+  { "name": "Léonides", "radiant": "Lion", "peakMonth": 11, "peakDay": 17, "activeFromDay": [11, 6], "activeToDay": [11, 30], "zhr": 15, "raDeg": 154.0, "decDeg": 22.0 },
+  { "name": "Géminides", "radiant": "Gémeaux", "peakMonth": 12, "peakDay": 14, "activeFromDay": [12, 4], "activeToDay": [12, 20], "zhr": 150, "raDeg": 112.0, "decDeg": 33.0 },
+  { "name": "Ursides", "radiant": "Petite Ourse", "peakMonth": 12, "peakDay": 22, "activeFromDay": [12, 17], "activeToDay": [12, 26], "zhr": 10, "raDeg": 217.0, "decDeg": 75.0 }
+]
