@@ -1,0 +1,29 @@
+[
+  {
+    "id": "polaris",
+    "name": "Étoile polaire",
+    "type": "star",
+    "raDeg": 37.9546,
+    "decDeg": 89.2641,
+    "magnitude": 1.98,
+    "note": "Quasi immobile toute la nuit — repère fixe pour orienter le cadrage, invisible sous l'équateur."
+  },
+  {
+    "id": "andromeda",
+    "name": "Galaxie d'Andromède (M31)",
+    "type": "galaxy",
+    "raDeg": 10.6847,
+    "decDeg": 41.2692,
+    "magnitude": 3.4,
+    "note": "Meilleure de l'été à l'hiver dans l'hémisphère nord — culmine haut en automne."
+  },
+  {
+    "id": "orion-nebula",
+    "name": "Nébuleuse d'Orion (M42)",
+    "type": "nebula",
+    "raDeg": 83.8221,
+    "decDeg": -5.3911,
+    "magnitude": 4.0,
+    "note": "Meilleure en hiver — cherche les trois étoiles alignées de la ceinture d'Orion juste au-dessus."
+  }
+]
